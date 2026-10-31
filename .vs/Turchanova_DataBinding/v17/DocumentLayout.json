@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Turchanova_DataBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1782712B-ECBD-43A4-98FD-AD33127FA6A9}|Turchanova_DataBinding\\Turchanova_DataBinding.csproj|C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Turchanova_DataBinding\\turchanova_databinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1782712B-ECBD-43A4-98FD-AD33127FA6A9}|Turchanova_DataBinding\\Turchanova_DataBinding.csproj|solutionrelative:turchanova_databinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782712B-ECBD-43A4-98FD-AD33127FA6A9}|Turchanova_DataBinding\\Turchanova_DataBinding.csproj|c:\\users\\dashi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0442\u0440\u043F\u043E\\turchanova_databinding\\turchanova_databinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1782712B-ECBD-43A4-98FD-AD33127FA6A9}|Turchanova_DataBinding\\Turchanova_DataBinding.csproj|solutionrelative:turchanova_databinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1782712B-ECBD-43A4-98FD-AD33127FA6A9}|Turchanova_DataBinding\\Turchanova_DataBinding.csproj|C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Turchanova_DataBinding\\turchanova_databinding\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1782712B-ECBD-43A4-98FD-AD33127FA6A9}|Turchanova_DataBinding\\Turchanova_DataBinding.csproj|solutionrelative:turchanova_databinding\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Turchanova_DataBinding\\Turchanova_DataBinding\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Turchanova_DataBinding\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Turchanova_DataBinding\\Turchanova_DataBinding\\MainWindow.xaml",
+              "RelativeToolTip": "Turchanova_DataBinding\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-30T08:17:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Turchanova_DataBinding\\Turchanova_DataBinding\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Turchanova_DataBinding\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Turchanova_DataBinding\\Turchanova_DataBinding\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Turchanova_DataBinding\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T08:16:57.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Turchanova_DataBinding\\Turchanova_DataBinding\\Service.cs",
+              "RelativeDocumentMoniker": "Turchanova_DataBinding\\Service.cs",
+              "ToolTip": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Turchanova_DataBinding\\Turchanova_DataBinding\\Service.cs",
+              "RelativeToolTip": "Turchanova_DataBinding\\Service.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T08:21:46.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
